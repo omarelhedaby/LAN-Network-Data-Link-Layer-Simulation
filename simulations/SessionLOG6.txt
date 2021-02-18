@@ -1,0 +1,28 @@
+Time 66.104480: Node 3 : Sending of Frame 0 Sent Without Delay 
+Time 66.104480: Node 2 Sending of 0 was Dropped
+Time 67.190490: Node 3 : Sending of Frame 1 Sent Without Delay 
+Time 67.190490 : Node 2 : Recieved Expected Frame 0 and the next Expected Frame is 1 Recieved Ack was 0
+Time 67.770559: Node 2 Sending of 1 was Dropped
+Time 68.288854: Node 3 : Sending of Frame 2 Sent Without Delay 
+Time 68.288854 : Node 2 : Recieved Expected Frame 1 and the next Expected Frame is 2 Recieved Ack was 0
+Time 69.337394: Node 3 : Sending of Frame 3 Sent Without Delay 
+Time 69.337394 : Node 2 : Recieved Expected Frame 2 and the next Expected Frame is 3 Recieved Ack was 0
+Time 70.367583 : Node 2 : Recieved Expected Frame 3 and the next Expected Frame is 4 Recieved Ack was 0
+Time 73.770559: Node 2 : Timeout to Frame 1
+Time 73.770559: Node 2 : Sending of Frame 0 Sent Without Delay 
+Time 74.811483: Node 2 : Sending of Frame 1 Sent Without Delay 
+Time 74.811483 : Node 3 : Recieved Expected Frame 0 and the next Expected Frame is 1 Recieved Ack was 4
+Time 74.811483: Node 3 : Sending of Frame 4 Sent Without Delay 
+Time 75.851467: Node 2 : Delayed Sending of Frame 2 with delay of  2.833664
+Time 75.851467 : Node 3 : Recieved Expected Frame 1 and the next Expected Frame is 2 Recieved Ack was 4
+Time 75.904843 : Node 2 : Recieved Expected Frame 4 and the next Expected Frame is 5 Recieved Ack was 1
+Time 75.904843: Node 2 Sending of 3 was Dropped
+Time 79.685131 : Node 3 : Recieved Expected Frame 2 and the next Expected Frame is 3 Recieved Ack was 4
+Time 80.811483: Node 3 : Timeout to Frame 4
+Time 80.811483: Node 3 : Sending of Frame 4 Sent Without Delay 
+Time 81.843567 : Node 2 : Recieved Wrong Frame 4 the Expected Frame was 5 Recieved Ack was 3
+Time 81.904843: Node 2 : Timeout to Frame 3
+Time 81.904843: Node 2 : Sending of Frame 3 Sent Without Delay 
+Time 82.948956 : Node 3 : Recieved Expected Frame 3 and the next Expected Frame is 4 Recieved Ack was 5
+Time 82.948956 : Node 3 : Sent all frames & Ended session with useful msgs received = 25 and total msg sent 37
+Time 82.948956 : Node 2 : Sent End Hub with useful msgs received = 28 and 45 Messages sent

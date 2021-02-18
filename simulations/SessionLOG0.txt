@@ -1,0 +1,26 @@
+Time 0.000000: Node 2 : Sending of Frame 0 Sent Without Delay 
+Time 0.000000: Node 3 : Sending of Frame 0 Sent Without Delay 
+Time 1.015104: Node 3 : Sending of Frame 1 Sent Without Delay 
+Time 1.015104 : Node 2 : Recieved Expected Frame 0 and the next Expected Frame is 1 Recieved Ack was 0
+Time 1.048129: Node 2 : Delayed Sending of Frame 1 with delay of  1.717823
+Time 1.048129 : Node 3 : Recieved Expected Frame 0 and the next Expected Frame is 1 Recieved Ack was 0
+Time 2.072705: Node 3 : Sending of Frame 2 Sent Without Delay 
+Time 2.072705 : Node 2 : Recieved Expected Frame 1 and the next Expected Frame is 2 Recieved Ack was 0
+Time 3.095336: Node 3 : Sending of Frame 3 Sent Without Delay 
+Time 3.095336 : Node 2 : Recieved Expected Frame 2 and the next Expected Frame is 3 Recieved Ack was 1
+Time 3.095336: Node 2 : Sending of Frame 2 Sent Without Delay 
+Time 3.765952: Node 2 : Sending of Frame 3 Sent Without Delay 
+Time 3.765952 : Node 3 : Recieved Expected Frame 1 and the next Expected Frame is 2 Recieved Ack was 1
+Time 3.765952: Node 3 : Sending of Frame 4 Sent Without Delay 
+Time 4.146869 : Node 2 : Recieved Expected Frame 3 and the next Expected Frame is 4 Recieved Ack was 1
+Time 4.157718 : Node 3 : Recieved Expected Frame 2 and the next Expected Frame is 3 Recieved Ack was 3
+Time 4.795442 : Node 2 : Recieved Expected Frame 4 and the next Expected Frame is 5 Recieved Ack was 2
+Time 4.813272 : Node 3 : Recieved Expected Frame 3 and the next Expected Frame is 4 Recieved Ack was 3
+Time 9.765952: Node 2 : Timeout to Frame 3
+Time 9.765952: Node 2 : Sending of Frame 2 Sent Without Delay 
+Time 9.765952: Node 3 : Timeout to Frame 4
+Time 9.765952: Node 3 : Sending of Frame 3 Sent Without Delay 
+Time 10.816448: Node 3 : Delayed Sending of Frame 4 with delay of  3.924523
+Time 10.816448 : Node 2 : Recieved Wrong Frame 3 the Expected Frame was 5 Recieved Ack was 4
+Time 10.816448 : Node 2 : Sent all frames & Ended session with useful msgs received = 28 and total msg sent 30
+Time 10.816448 : Node 3 : Sent End Hub with useful msgs received = 25 and 40 Messages sent

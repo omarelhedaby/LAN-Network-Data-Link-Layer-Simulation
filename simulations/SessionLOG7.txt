@@ -1,0 +1,21 @@
+Time 88.849845: Node 3 : Sending of Frame 0 Sent Without Delay 
+Time 88.849845: Node 0 : Sending of Frame 0 Sent Without Delay 
+Time 89.873178: Node 3 : Sending of Frame 1 Sent Without Delay 
+Time 82.948956: Node 0 Sending of 0 was Dropped
+Time 82.948956: Node 1 : Sending of Frame 0 Sent Without Delay 
+Time 84.000008: Node 1 : Sending of Frame 1 Sent Without Delay 
+Time 82.948956: Node 0 Sending of 0 was Dropped
+Time 82.948956: Node 1 : Sending of Frame 0 Sent Without Delay 
+Time 84.000008: Node 1 : Sending of Frame 1 Sent Without Delay 
+Time 62.339671: Node 4 : Sending of Frame 0 Sent Without Delay 
+Time 62.339671: Node 1 : Sending of Frame 0 Sent Without Delay 
+Time 63.436146: Node 1 : Sending of Frame 1 Sent Without Delay 
+Time 62.339671: Node 4 : Sending of Frame 0 Sent Without Delay 
+Time 62.339671: Node 1 : Sending of Frame 0 Sent Without Delay 
+Time 63.436146: Node 1 : Sending of Frame 1 Sent Without Delay 
+Time 54.703434: Node 1 : Sending of Frame 0 Sent Without Delay 
+Time 54.703434: Node 0 : Sending of Frame 0 Sent Without Delay 
+Time 55.725320: Node 0 : Sending of Frame 1 Sent Without Delay 
+Time 82.948956: Node 0 Sending of 0 was Dropped
+Time 82.948956: Node 1 : Sending of Frame 0 Sent Without Delay 
+Time 84.000008: Node 1 : Sending of Frame 1 Sent Without Delay 

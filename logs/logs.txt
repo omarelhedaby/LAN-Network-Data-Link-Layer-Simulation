@@ -1,0 +1,8 @@
+- when any error happens please print a message indicated the error and the message payload before error and after error.
+- please print for each message recieved at each node the following " recieved message with payload "XYS"( as human readable character) , sequqnce number "X", "message type (data/ack/piggybacked" at node "node name or id " .
+- upon detecting and correcting any error print a message like the following : check parity detected error , or hamming code corrected error at message "XYZ".
+- please also print the framing before and after.
+- upon any retransmission in goback n or selective repeat, print "retransmitting message payload "XYZ"
+- upon any timeout print a message like " time out for frame number "X" at node "node name or id " .
+- upon start and end session between any two pairs print a message indicates their names and whether they start or not. 
+-print the statistics results for all the system nodes
