@@ -12,5 +12,4 @@ Error Simulated:
 * Drop Frame Error
 * Delay Recieving Error
 
-- probabilites of errors can be changed in the .ini file 
-- number of devices connected to the hub can be changed in the .ini file
+probabilites of errors and number of devices connected to the hub can be changed in the .ini file 
